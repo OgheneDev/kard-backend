@@ -15,7 +15,6 @@
     "@sparticuz/chromium": "^147.0.0",
     "cors": "^2.8.6",
     "express": "^5.2.1",
-    "puppeteer": "^25.0.4",
     "puppeteer-core": "^25.0.4"
   },
   "devDependencies": {
